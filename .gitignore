@@ -1,0 +1,7 @@
+/.env
+/mastodon
+/terraform/.terraform.*
+/terraform/.terraform/
+/terraform/terraform.tfstate
+/terraform/terraform.tfstate.*
+/local-vars
